@@ -1,0 +1,17 @@
+*{
+    font-family: helvetica;
+
+}
+h1{
+   text-align: center; 
+   color: red;
+}
+
+.t2a{
+    text-decoration: underline;
+    color: blue;
+ }
+
+ .t2s{
+    color: green; 
+ }
